@@ -18,7 +18,7 @@ To run this project, you need the following Python packages:
 - matplotlib
 
 ## Notebook
-The project includes a Jupyter notebook located in the `notebook/` directory. The notebook covers:
+The project includes a Jupyter notebook. The notebook covers:
 - Data import
 - Data preprocessing
 - Model training
